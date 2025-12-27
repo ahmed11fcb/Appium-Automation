@@ -1,0 +1,16 @@
+<suite name="AllTestSuite">
+    <test name="LoginFlow">
+        <classes>
+            <class name="MyTestPackage.LoginPageTest"/>
+        </classes>
+    </test>
+
+    <test name="ShoppingFlow">
+        <classes>
+            <class name="MyTestPackage.TestProductsPage"/>
+            <class name="MyTestPackage.CartPageTest"/>
+            <class name="MyTestPackage.CheckInformationTests"/>
+            <class name="MyTestPackage.ConfirmationPageTests"/>
+        </classes>
+    </test>
+</suite>
