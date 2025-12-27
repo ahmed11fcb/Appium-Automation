@@ -1,6 +1,6 @@
 **Project Overview**
 
-This project demonstrates mobile automation testing on the SwagLabs E-Commerce application using Appium, Selenium, and TestNG. It covers essential mobile gestures and UI interactions to validate app functionality and improve testing efficiency.
+--> This project demonstrates mobile automation testing on the SwagLabs E-Commerce application using Appium, Selenium, and TestNG. It covers essential mobile gestures and UI     interactions to validate app functionality and improve testing efficiency.
 
 **Features / Gestures Implemented**
 
